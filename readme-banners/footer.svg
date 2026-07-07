@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 140" width="850" height="140">
+  <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4NTAgMTQwIiB3aWR0aD0iODUwIiBoZWlnaHQ9IjE0MCIgZm9udC1mYW1pbHk9IkFyaWFsLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWYiPg0KICA8ZGVmcz4NCiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9ImZ0QmciIGN4PSI1MCUiIGN5PSIyMCUiIHI9IjkwJSI+DQogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMTYxYjI2Ij48L3N0b3A+DQogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwZDExMTciPjwvc3RvcD4NCiAgICA8L3JhZGlhbEdyYWRpZW50Pg0KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0id2F2ZUdyYWQiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIwIj4NCiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2JkOTNmOSI+PC9zdG9wPg0KICAgICAgPHN0b3Agb2Zmc2V0PSIwLjMzIiBzdG9wLWNvbG9yPSIjZmY3OWM2Ij48L3N0b3A+DQogICAgICA8c3RvcCBvZmZzZXQ9IjAuNjYiIHN0b3AtY29sb3I9IiM1MGZhN2IiPjwvc3RvcD4NCiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzg1QjdFQiI+PC9zdG9wPg0KICAgIDwvbGluZWFyR3JhZGllbnQ+DQogICAgPGZpbHRlciBpZD0iaWNvbkdsb3ciIHg9Ii04MCUiIHk9Ii04MCUiIHdpZHRoPSIyNjAlIiBoZWlnaHQ9IjI2MCUiPg0KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMy41Ij48L2ZlR2F1c3NpYW5CbHVyPg0KICAgIDwvZmlsdGVyPg0KICA8L2RlZnM+DQoNCiAgPHJlY3Qgd2lkdGg9Ijg1MCIgaGVpZ2h0PSIxNDAiIGZpbGw9InVybCgjZnRCZykiPjwvcmVjdD4NCg0KICA8ZyBvcGFjaXR5PSIxIj4NCiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjA7MSIgZHVyPSIxcyIgYmVnaW49IjBzIiBmaWxsPSJmcmVlemUiIGNhbGNNb2RlPSJzcGxpbmUiIGtleVNwbGluZXM9IjAuNCAwIDAuMiAxIj48L2FuaW1hdGU+DQogICAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJ0cmFuc2xhdGUiIHZhbHVlcz0iMCA4OzAgMCIgZHVyPSIxcyIgYmVnaW49IjBzIiBmaWxsPSJmcmVlemUiIGNhbGNNb2RlPSJzcGxpbmUiIGtleVNwbGluZXM9IjAuNCAwIDAuMiAxIj48L2FuaW1hdGVUcmFuc2Zvcm0+DQogICAgPHRleHQgeD0iNDI1IiB5PSI0NCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIyMSIgZm9udC1zdHlsZT0iaXRhbGljIiBmaWxsPSIjZTZlOWYwIiBmb250LXdlaWdodD0iNTAwIj5UaGUgd29yayBpc24mIzgyMTc7dCB0aGUgcHJvb2YuIFRoZSBkb2luZyBpcy48L3RleHQ+DQogIDwvZz4NCg0KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLDcyKSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjOGI5NGEzIiBzdHJva2Utd2lkdGg9IjEuNiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4NCg0KICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI5NywwKSI+DQogICAgICA8Y2lyY2xlIGN4PSIwIiBjeT0iMCIgcj0iMjQiIGZpbGw9IiNjNmNlZGIiIGZpbHRlcj0idXJsKCNpY29uR2xvdykiIG9wYWNpdHk9IjAuMTIiPg0KICAgICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjAuMTI7MC4zMjswLjEyIiBkdXI9IjNzIiBiZWdpbj0iMHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBjYWxjTW9kZT0ic3BsaW5lIiBrZXlTcGxpbmVzPSIwLjQgMCAwLjYgMTswLjQgMCAwLjYgMSI+PC9hbmltYXRlPg0KICAgICAgPC9jaXJjbGU+DQogICAgICA8Y2lyY2xlIGN4PSIwIiBjeT0iMCIgcj0iMjAiIGZpbGw9IiMxMTE2MWYiIHN0cm9rZT0iIzJiMzEzZCIgc3Ryb2tlLXdpZHRoPSIxIj48L2NpcmNsZT4NCiAgICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKC05LC05KSBzY2FsZSgwLjc1KSIgZmlsbD0iIzhiOTRhMyIgc3Ryb2tlPSJub25lIj4NCiAgICAgICAgPHBhdGggZD0iTTEyIDEuNSBDNi4yIDEuNSAxLjUgNi4yIDEuNSAxMiBjMCA0LjY0IDMuMDEgOC41NyA3LjE4IDkuOTYgLjUzLjEuNzItLjIzLjcyLS41MSB2LTEuOCBjLTIuOTIuNjMtMy41NC0xLjQtMy41NC0xLjQgLS40OC0xLjIyLTEuMTctMS41NC0xLjE3LTEuNTQgLS45NS0uNjUuMDctLjY0LjA3LS42NCAxLjA1LjA3IDEuNiAxLjA4IDEuNiAxLjA4IC45NCAxLjYgMi40NiAxLjE0IDMuMDYuODcgLjEtLjY4LjM3LTEuMTQuNjYtMS40IC0yLjMzLS4yNy00Ljc4LTEuMTctNC43OC01LjE5IDAtMS4xNS40MS0yLjA4IDEuMDgtMi44MiAtLjExLS4yNy0uNDctMS4zNC4xLTIuNzkgMCAwIC44OC0uMjggMi44OCAxLjA4IGE5LjkgOS45IDAgMCAxIDUuMjQgMCBjMi0xLjM2IDIuODgtMS4wOCAyLjg4LTEuMDggLjU3IDEuNDUuMjEgMi41Mi4xIDIuNzkgLjY3Ljc0IDEuMDggMS42NyAxLjA4IDIuODIgMCA0LjAzLTIuNDYgNC45Mi00LjggNS4xOCAuMzguMzMuNzEuOTcuNzEgMS45NiB2Mi45IGMwIC4yOC4xOS42Mi43My41MSBDMTkuNDkgMjAuNTYgMjIuNSAxNi42NCAyMi41IDEyIDIyLjUgNi4yIDE3LjggMS41IDEyIDEuNSBaIj48L3BhdGg+DQogICAgICA8L2c+DQogICAgPC9nPg0KDQogICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMzYzLDApIj4NCiAgICAgIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyNCIgZmlsbD0iIzg1QjdFQiIgZmlsdGVyPSJ1cmwoI2ljb25HbG93KSIgb3BhY2l0eT0iMC4xMCI+DQogICAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMC4xMDswLjMwOzAuMTAiIGR1cj0iMy4ycyIgYmVnaW49IjAuNHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBjYWxjTW9kZT0ic3BsaW5lIiBrZXlTcGxpbmVzPSIwLjQgMCAwLjYgMTswLjQgMCAwLjYgMSI+PC9hbmltYXRlPg0KICAgICAgPC9jaXJjbGU+DQogICAgICA8cmVjdCB4PSItMjAiIHk9Ii0yMCIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iMjAiIGZpbGw9IiMxMTE2MWYiIHN0cm9rZT0iIzJiMzEzZCIgc3Ryb2tlLXdpZHRoPSIxIj48L3JlY3Q+DQogICAgICA8cmVjdCB4PSItMTEiIHk9Ii0xMSIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiByeD0iNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjODVCN0VCIiBzdHJva2Utd2lkdGg9IjEuNiI+PC9yZWN0Pg0KICAgICAgPGNpcmNsZSBjeD0iLTUuNSIgY3k9Ii01IiByPSIxLjciIGZpbGw9IiM4NUI3RUIiIHN0cm9rZT0ibm9uZSI+PC9jaXJjbGU+DQogICAgICA8bGluZSB4MT0iLTUuNSIgeTE9Ii0xIiB4Mj0iLTUuNSIgeTI9IjciIHN0cm9rZT0iIzg1QjdFQiI+PC9saW5lPg0KICAgICAgPHBhdGggZD0iTTEgNyBWMS41IEMxIC0wLjYgMi42IC0xLjMgNCAtMS4zIEM2IC0xLjMgNi44IDAuMiA2LjggMi4zIFY3IiBzdHJva2U9IiM4NUI3RUIiPjwvcGF0aD4NCiAgICA8L2c+DQoNCiAgICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg0MjksMCkiPg0KICAgICAgPGNpcmNsZSBjeD0iMCIgY3k9IjAiIHI9IjI0IiBmaWxsPSIjNTBmYTdiIiBmaWx0ZXI9InVybCgjaWNvbkdsb3cpIiBvcGFjaXR5PSIwLjEwIj4NCiAgICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwLjEwOzAuMzA7MC4xMCIgZHVyPSIzLjRzIiBiZWdpbj0iMC44cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGNhbGNNb2RlPSJzcGxpbmUiIGtleVNwbGluZXM9IjAuNCAwIDAuNiAxOzAuNCAwIDAuNiAxIj48L2FuaW1hdGU+DQogICAgICA8L2NpcmNsZT4NCiAgICAgIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyMCIgZmlsbD0iIzExMTYxZiIgc3Ryb2tlPSIjMmIzMTNkIiBzdHJva2Utd2lkdGg9IjEiPjwvY2lyY2xlPg0KICAgICAgPGNpcmNsZSBjeD0iLTgiIGN5PSIwIiByPSI2LjUiIGZpbGw9IiM1MGZhN2IiIHN0cm9rZT0ibm9uZSI+PC9jaXJjbGU+DQogICAgICA8ZWxsaXBzZSBjeD0iMi41IiBjeT0iMCIgcng9IjIuNiIgcnk9IjYuNSIgZmlsbD0iIzUwZmE3YiIgc3Ryb2tlPSJub25lIj48L2VsbGlwc2U+DQogICAgICA8ZWxsaXBzZSBjeD0iOS41IiBjeT0iMCIgcng9IjEuMiIgcnk9IjYuNSIgZmlsbD0iIzUwZmE3YiIgc3Ryb2tlPSJub25lIj48L2VsbGlwc2U+DQogICAgPC9nPg0KDQogICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNDk1LDApIj4NCiAgICAgIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyNCIgZmlsbD0iI2ZmNzljNiIgZmlsdGVyPSJ1cmwoI2ljb25HbG93KSIgb3BhY2l0eT0iMC4xMCI+DQogICAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMC4xMDswLjMwOzAuMTAiIGR1cj0iMy42cyIgYmVnaW49IjEuMnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBjYWxjTW9kZT0ic3BsaW5lIiBrZXlTcGxpbmVzPSIwLjQgMCAwLjYgMTswLjQgMCAwLjYgMSI+PC9hbmltYXRlPg0KICAgICAgPC9jaXJjbGU+DQogICAgICA8Y2lyY2xlIGN4PSIwIiBjeT0iMCIgcj0iMjAiIGZpbGw9IiMxMTE2MWYiIHN0cm9rZT0iIzJiMzEzZCIgc3Ryb2tlLXdpZHRoPSIxIj48L2NpcmNsZT4NCiAgICAgIDxyZWN0IHg9Ii0xMSIgeT0iLTcuNSIgd2lkdGg9IjIyIiBoZWlnaHQ9IjE1IiByeD0iMi41IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZjc5YzYiIHN0cm9rZS13aWR0aD0iMS42Ij48L3JlY3Q+DQogICAgICA8cGF0aCBkPSJNLTExIC02IEwwIDIgTDExIC02IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZjc5YzYiIHN0cm9rZS13aWR0aD0iMS42Ij48L3BhdGg+DQogICAgPC9nPg0KICA8L2c+DQoNCiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwxMTIpIj4NCiAgICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgdmFsdWVzPSIwLDExMjstMjEwLDExMiIgZHVyPSI5cyIgYmVnaW49IjBzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgY2FsY01vZGU9InNwbGluZSIga2V5U3BsaW5lcz0iMC40MiAwIDAuNTggMSI+PC9hbmltYXRlVHJhbnNmb3JtPg0KICAgIDxwYXRoIGQ9Ik0wIDE0IFEgNTIuNSA3LjAgMTA1LjAgMTQgUSAxNTcuNSAyMS4wIDIxMC4wIDE0IFEgMjYyLjUgNy4wIDMxNS4wIDE0IFEgMzY3LjUgMjEuMCA0MjAuMCAxNCBRIDQ3Mi41IDcuMCA1MjUuMCAxNCBRIDU3Ny41IDIxLjAgNjMwLjAgMTQgUSA2ODIuNSA3LjAgNzM1LjAgMTQgUSA3ODcuNSAyMS4wIDg0MC4wIDE0IFEgODkyLjUgNy4wIDk0NS4wIDE0IFEgOTk3LjUgMjEuMCAxMDUwLjAgMTQgUSAxMTAyLjUgNy4wIDExNTUuMCAxNCBRIDEyMDcuNSAyMS4wIDEyNjAuMCAxNCBRIDEzMTIuNSA3LjAgMTM2NS4wIDE0IFEgMTQxNy41IDIxLjAgMTQ3MC4wIDE0IFEgMTUyMi41IDcuMCAxNTc1LjAgMTQgUSAxNjI3LjUgMjEuMCAxNjgwLjAgMTQgUSAxNzMyLjUgNy4wIDE3ODUuMCAxNCBMIDE3MDAgMjggTCAwIDI4IFoiIGZpbGw9InVybCgjd2F2ZUdyYWQpIiBvcGFjaXR5PSIwLjE2Ij48L3BhdGg+DQogICAgPHBhdGggZD0iTTAgMTggUSA1Mi41IDkuMCAxMDUuMCAxOCBRIDE1Ny41IDI3LjAgMjEwLjAgMTggUSAyNjIuNSA5LjAgMzE1LjAgMTggUSAzNjcuNSAyNy4wIDQyMC4wIDE4IFEgNDcyLjUgOS4wIDUyNS4wIDE4IFEgNTc3LjUgMjcuMCA2MzAuMCAxOCBRIDY4Mi41IDkuMCA3MzUuMCAxOCBRIDc4Ny41IDI3LjAgODQwLjAgMTggUSA4OTIuNSA5LjAgOTQ1LjAgMTggUSA5OTcuNSAyNy4wIDEwNTAuMCAxOCBRIDExMDIuNSA5LjAgMTE1NS4wIDE4IFEgMTIwNy41IDI3LjAgMTI2MC4wIDE4IFEgMTMxMi41IDkuMCAxMzY1LjAgMTggUSAxNDE3LjUgMjcuMCAxNDcwLjAgMTggUSAxNTIyLjUgOS4wIDE1NzUuMCAxOCBRIDE2MjcuNSAyNy4wIDE2ODAuMCAxOCBRIDE3MzIuNSA5LjAgMTc4NS4wIDE4IEwgMTcwMCAyOCBMIDAgMjggWiIgZmlsbD0idXJsKCN3YXZlR3JhZCkiIG9wYWNpdHk9IjAuMjgiPjwvcGF0aD4NCiAgPC9nPg0KPC9zdmc+DQo=" x="0" y="0" width="850" height="140" preserveAspectRatio="none">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.44;0.52;0.94;1" dur="24s" repeatCount="indefinite"></animate>
+  </image>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.44;0.52;0.94;1" dur="24s" repeatCount="indefinite"></animate>
+
+    <defs>
+      <linearGradient id="ftTitleBar95" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#0a246a"></stop>
+        <stop offset="100%" stop-color="#3560c8"></stop>
+      </linearGradient>
+      <linearGradient id="ftWave95" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#d977ff"></stop>
+        <stop offset="33%" stop-color="#f472b6"></stop>
+        <stop offset="66%" stop-color="#4ade80"></stop>
+        <stop offset="100%" stop-color="#60a5fa"></stop>
+      </linearGradient>
+    </defs>
+
+    <rect width="850" height="140" fill="#008080"></rect>
+    <rect x="10" y="10" width="830" height="120" fill="#c0c0c0" stroke="#ffffff" stroke-width="2"></rect>
+    <path d="M10 130 H840 V10" fill="none" stroke="#404040" stroke-width="2"></path>
+
+    <rect x="14" y="14" width="822" height="22" fill="url(#ftTitleBar95)"></rect>
+    <text x="24" y="29" fill="#ffffff" font-family="Tahoma, Arial, sans-serif" font-size="11" font-weight="700">Footer</text>
+
+    <rect x="14" y="38" width="822" height="88" fill="#061226" stroke="#808080" stroke-width="2"></rect>
+    <text x="425" y="74" text-anchor="middle" fill="#e5e7eb" font-family="'Courier New', monospace" font-size="19" font-style="italic">The work is proof only if you keep shipping.</text>
+
+    <g transform="translate(300,88)" fill="#c0c0c0" stroke="#ffffff" stroke-width="1">
+      <rect width="26" height="26"></rect><path d="M0 26 H26 V0" fill="none" stroke="#404040"></path>
+      <text x="13" y="17" fill="#000000" font-family="Tahoma, Arial, sans-serif" font-size="10" text-anchor="middle">GH</text>
+    </g>
+    <g transform="translate(336,88)" fill="#c0c0c0" stroke="#ffffff" stroke-width="1">
+      <rect width="26" height="26"></rect><path d="M0 26 H26 V0" fill="none" stroke="#404040"></path>
+      <text x="13" y="17" fill="#000000" font-family="Tahoma, Arial, sans-serif" font-size="10" text-anchor="middle">IN</text>
+    </g>
+    <g transform="translate(372,88)" fill="#c0c0c0" stroke="#ffffff" stroke-width="1">
+      <rect width="26" height="26"></rect><path d="M0 26 H26 V0" fill="none" stroke="#404040"></path>
+      <text x="13" y="17" fill="#000000" font-family="Tahoma, Arial, sans-serif" font-size="10" text-anchor="middle">M</text>
+    </g>
+    <g transform="translate(408,88)" fill="#c0c0c0" stroke="#ffffff" stroke-width="1">
+      <rect width="26" height="26"></rect><path d="M0 26 H26 V0" fill="none" stroke="#404040"></path>
+      <text x="13" y="17" fill="#000000" font-family="Tahoma, Arial, sans-serif" font-size="10" text-anchor="middle">@</text>
+    </g>
+    <g transform="translate(444,88)" fill="#c0c0c0" stroke="#ffffff" stroke-width="1">
+      <rect width="26" height="26"></rect><path d="M0 26 H26 V0" fill="none" stroke="#404040"></path>
+      <text x="13" y="17" fill="#000000" font-family="Tahoma, Arial, sans-serif" font-size="10" text-anchor="middle">WEB</text>
+    </g>
+
+    <g transform="translate(0,119)">
+      <path d="M0 8 Q53 2 106 8 T212 8 T318 8 T424 8 T530 8 T636 8 T742 8 T848 8 L850 20 L0 20 Z" fill="url(#ftWave95)" opacity="0.8">
+        <animateTransform attributeName="transform" type="translate" values="0 0;-106 0;0 0" dur="8s" repeatCount="indefinite"></animateTransform>
+      </path>
+    </g>
+  </g>
+</svg>
+
